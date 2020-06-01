@@ -1,0 +1,17 @@
+{
+  "name": "airbnbUi",
+  "displayName": "airbnbUi",
+  "expo": {
+    "name": "airbnbUi",
+    "slug": "airbnbUi",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
