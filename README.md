@@ -2,6 +2,6 @@
 
 # Start
 
-# yarn install
+yarn install
 
 #npm run android
